@@ -59,4 +59,4 @@ solving skills.</h4>
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gr7800&show_icons=true&locale=en&theme=tokyonight" alt="gr7800" /></p>
 <img align="center" width="90%" src="https://activity-graph.herokuapp.com/graph?username=gr7800&theme=github" height ="307"/>
 <p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=gr7800&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gr7800" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=gr7800&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gr7800" /> </p>
