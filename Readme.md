@@ -1,5 +1,5 @@
 <h1 align="left">Hi There <img width="40px" 
-src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋"/>, 
+src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="👋"/>, 
 I'm Guddu Tiwari <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"
 alt="😎"/>
 </h1>
@@ -21,7 +21,11 @@ solving skills.</h4>
 
 - 🔭 Individual Project [Nordstrom Website - Clone](https://github.com/gr7800/grumpy-behavior-5631)
 
+- 🔭 Individual Project [Youtube Website - Clone](https://github.com/gr7800/Youtube-clone)
+
 - 👯 Group Project  [Indiegogo Website - Clone](https://github.com/gr7800/daily-wound-486)
+
+- 👯 Group Project  [Hubspot Website - Clone](https://github.com/Guruprasad3n/HubSpot.com---Clone)
 
 - 👯 Group Project  [Semrush Website - Clone](https://github.com/dinesh0085/concerned-teeth-2742)
 
