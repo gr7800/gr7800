@@ -17,7 +17,7 @@ solving skills.</h4>
 <img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
 
-- 🧷 Portfolio https://gr7800.github.io 
+- 🧷 My <a href="https://gr7800.github.io" >Portfolio</a>
 
 - 🔭 Individual Project [Nordstrom Website - Clone](https://github.com/gr7800/grumpy-behavior-5631)
 
