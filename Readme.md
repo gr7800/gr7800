@@ -1,8 +1,6 @@
 <h1 align="left">Hi There <img width="40px" 
 src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="👋"/>, 
-I'm Guddu Tiwari <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"
-alt="😎"/>
-</h1>
+I'm Guddu Tiwari 😎
 
 <h3 align="left">Experienced Full Stack Developer with 2 years of hands-on expertise in crafting and deploying a variety of applications. Proficient in Next.js, React.js, HTML, CSS, JavaScript, Chakra UI, Node.js, and Tailwind CSS. Adept at designing and implementing comprehensive solutions across diverse technologies. Eager to contribute my advanced development knowledge and technical skills to a dynamic role as a Full Stack Developer.</h4>
 </br>
