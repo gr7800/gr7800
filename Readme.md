@@ -11,6 +11,8 @@ I'm Guddu Tiwari 😎
 
 - 🧷 My <a href="https://gr7800.github.io" >Portfolio</a>
 
+- 🧷 My <a href="https://www.linkedin.com/in/guddu-tiwari-57b841230" >Linkedin</a>
+
 - 🔭 Individual Project [Nordstrom Website - Clone](https://github.com/gr7800/grumpy-behavior-5631)
 
 - 🔭 Individual Project [Youtube Website - Clone](https://github.com/gr7800/Youtube-clone)
