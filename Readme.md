@@ -2,7 +2,7 @@
 src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="👋"/>, 
 I'm Guddu Tiwari 😎
 
-<h3 align="left">Experienced Full Stack Developer with 2 years of hands-on expertise in crafting and deploying a variety of applications. Proficient in Next.js, React.js, HTML, CSS, JavaScript, Chakra UI, Node.js, and Tailwind CSS. Adept at designing and implementing comprehensive solutions across diverse technologies. Eager to contribute my advanced development knowledge and technical skills to a dynamic role as a Full Stack Developer.</h4>
+<h3 align="left">Experienced Full Stack Developer with 3+ years of hands-on expertise in crafting and deploying a variety of applications. Proficient in Next.js, React.js, HTML, CSS, JavaScript, Chakra UI, Node.js, and Tailwind CSS. Adept at designing and implementing comprehensive solutions across diverse technologies. Eager to contribute my advanced development knowledge and technical skills to a dynamic role as a Full Stack Developer.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr7800&label=Profile%20views&color=0e75b6&style=flat" alt="gr7800" /> </p>
